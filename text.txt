@@ -2,4 +2,5 @@
 2. npm i axios
 3. npm i bootstrap
 4. npm install jquery popper.js
-3. npm i react-icons
+5. npm i react-icons
+6. npm start // jalankan server
